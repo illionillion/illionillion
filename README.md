@@ -5,10 +5,10 @@
 
 <!-- [Qiita](https://qiita.com/dimyasvariant) -->
 
-
 # My Qiita posts
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/mikkame/posts.svg)](https://qiita.com/dimyasvariant)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/dimyasvariant/posts.svg)](http://qiita.com/dimyasvariant)
 # My Qiita contributions
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/mikkame/contributions.svg)](https://qiita.com/dimyasvariant)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/dimyasvariant/contributions.svg)](http://qiita.com/dimyasvariant)
 # My Qiita followers
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/mikkame/followers.svg)](http://qiita.com/dimyasvariant)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/dimyasvariant/followers.svg)](http://qiita.com/dimyasvariant)
+                
