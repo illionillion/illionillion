@@ -3,4 +3,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=illionillion&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=illionillion)](https://github.com/ryo-ma/github-profile-trophy)
 
-[Qiita](https://qiita.com/dimyasvariant)
+<!-- [Qiita](https://qiita.com/dimyasvariant) -->
+
+
+# My Qiita posts
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/mikkame/posts.svg)](https://qiita.com/dimyasvariant)
+# My Qiita contributions
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/mikkame/contributions.svg)](https://qiita.com/dimyasvariant)
+# My Qiita followers
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/mikkame/followers.svg)](http://qiita.com/dimyasvariant)
