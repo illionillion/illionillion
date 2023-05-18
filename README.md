@@ -4,8 +4,8 @@
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=illionillion)](https://github.com/ryo-ma/github-profile-trophy) -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=illionillion&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- [Qiita](https://qiita.com/dimyasvariant) -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=illionillion&theme=dark&hide_border=false)
-<img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=illionillion&theme=dracula" />
+![](https://github-readme-streak-stats.herokuapp.com/?user=illionillion&theme=onedark&hide_border=false)
+<img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=illionillion&theme=onedark" />
 
 # My Qiita posts
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/dimyasvariant/posts.svg)](http://qiita.com/dimyasvariant)
