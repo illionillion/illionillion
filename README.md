@@ -8,6 +8,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=illionillion&theme=onedark&hide_border=false)
 <img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=illionillion&theme=onedark" />
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=illionillion&theme=onedark)
+
 # My Qiita posts
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/dimyasvariant/posts.svg)](http://qiita.com/dimyasvariant)
 # My Qiita contributions
