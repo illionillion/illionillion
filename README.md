@@ -29,7 +29,7 @@
 # My Qiita followers
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/dimyasvariant/followers.svg)](http://qiita.com/dimyasvariant)
 # My Zenn
-<a href="https://zenn.dev/nikaera">
+<a href="https://zenn.dev/illionillion">
   <img src="https://zenn.badge.nikaera.com/s/illionillion/likes?style=flat" alt="nikaera likes" />
 </a>
 
