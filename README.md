@@ -22,15 +22,33 @@
 | [MaaS](https://github.com/SEKI-YUTA/GEEKCAMP_HACKATHON_20230929) | 技育キャラバン大阪<br/>個人経営飲食店向けのモバイルメニュー表SaaS | TypeScript・React・Go・Docker・GitHub Actions |
 |[ラグナロクアップルズ](https://github.com/illionillion/RagnarokApples)|大阪芸大の学生と共同開発したノベルゲーム|Node.js・Electron|
 
-# My Qiita posts
+# My Qiita
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/dimyasvariant/posts.svg)](http://qiita.com/dimyasvariant)
-# My Qiita contributions
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/dimyasvariant/contributions.svg)](http://qiita.com/dimyasvariant)
-# My Qiita followers
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/dimyasvariant/followers.svg)](http://qiita.com/dimyasvariant)
 # My Zenn
+<!--Likes -->
 <a href="https://zenn.dev/illionillion">
-  <img src="https://zenn.badge.nikaera.com/s/illionillion/likes?style=flat" alt="nikaera likes" />
+  <img src="https://zenn.badge.nikaera.com/s/illionillion/likes?style=flat" alt="illionillion likes" />
+</a>
+<!-- Articles のバッジ -->
+<a href="https://zenn.dev/illionillion/articles">
+  <img src="https://zenn.badge.nikaera.com/s/illionillion/articles?style=flat" alt="illionillion articles" />
+</a>
+
+<!-- Followers のバッジ -->
+<a href="https://zenn.dev/illionillion/followers">
+  <img src="https://zenn.badge.nikaera.com/s/illionillion/followers?style=flat" alt="illionillion followers" />
+</a>
+
+<!-- Books のバッジ -->
+<a href="https://zenn.dev/illionillion/books">
+  <img src="https://zenn.badge.nikaera.com/s/illionillion/books?style=flat" alt="illionillion books" />
+</a>
+
+<!-- Scraps のバッジ -->
+<a href="https://zenn.dev/illionillion/scraps">
+  <img src="https://zenn.badge.nikaera.com/s/illionillion/scraps?style=flat" alt="illionillion scraps" />
 </a>
 
 # 💻 Tech Stack:
