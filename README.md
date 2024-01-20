@@ -21,6 +21,7 @@
 | [自販機サーチャー](https://github.com/illionillion/reco-c-team-project) | R社インターンハッカソン<br/>現在地から欲しい飲み物を売っている自販機を探すことのできるWebアプリ | TypeScript・React・Next.js・MySQL・Docker |
 | [MaaS](https://github.com/SEKI-YUTA/GEEKCAMP_HACKATHON_20230929) | 技育キャラバン大阪<br/>個人経営飲食店向けのモバイルメニュー表SaaS | TypeScript・React・Go・Docker・GitHub Actions |
 |[ラグナロクアップルズ](https://github.com/illionillion/RagnarokApples)|大阪芸大の学生と共同開発したノベルゲーム|Node.js・Electron|
+|[顔マスキングアプリ](https://github.com/illionillion/face-stamp-app-prototype)|顔写真の顔をAIで自動マスキングするアプリ|React・TypeScript・Yamada UI|
 
 # My Qiita
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/dimyasvariant/posts.svg)](http://qiita.com/dimyasvariant)
