@@ -1,6 +1,6 @@
 # Hello MyPage !!
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=illionillion&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=illionillion&layout=donut&langs_count=8&theme=react&hide=html,tex)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=illionillion&layout=donut&langs_count=8&theme=react&hide=html,tex)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=illionillion&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=illionillion)](https://github.com/ryo-ma/github-profile-trophy) -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=illionillion&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
