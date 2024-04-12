@@ -16,6 +16,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
 </picture>
 
+![My Pet](https://readme.pet/api?username=illionillion)
+
 # 制作物
 
 | 作品名 | 概要 | 使用技術 |
