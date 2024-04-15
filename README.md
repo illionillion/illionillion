@@ -31,6 +31,7 @@
 |[ラグナロクアップルズ](https://github.com/illionillion/RagnarokApples)|大阪芸大の学生と共同開発したノベルゲーム|Node.js・Electron|
 |[顔マスキングアプリ](https://github.com/illionillion/face-stamp-app-prototype)|顔写真の顔をAIで自動マスキングするアプリ|React・TypeScript・Yamada UI|
 |[あしあと](https://github.com/illionillion/ashiato)|関西ビギナーズハッカソン<br/>旅のしおりを作成するアプリ|PHP・Docker|
+|[READMe.pet](https://github.com/impostor-syndromes/README.pet)|READMEで飼うペットにコントリビューション数で餌をあげれるツール|Go・Docker・Google Cloud|
 
 # My Qiita
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/dimyasvariant/posts.svg)](http://qiita.com/dimyasvariant)
