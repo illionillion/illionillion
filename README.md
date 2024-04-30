@@ -16,7 +16,7 @@
   <img alt="github contribution grid snake animation" src="./img/snake.svg">
 </picture>
 
-![My Pet](https://readme.pet/api?username=illionillion)
+<!-- ![My Pet](https://readme.pet/api?username=illionillion) -->
 
 # 制作物
 
