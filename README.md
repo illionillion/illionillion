@@ -22,16 +22,11 @@
 
 | 作品名 | 概要 | 使用技術 |
 |--------|--------|--------|
-| [multiCount](https://github.com/illionillion/multiCountApp) | 個人開発<br/>複数カウントができるAndroidアプリ | TypeScript・React Native・Expo |
 | [AutoREADME](https://github.com/illionillion/auto-readme) | モンスターズエッグズハッカソン<br/>README自動生成のVSCode拡張機能 | TypeScript・ChatGPT・Visual Studio Code |
 | [RAY-BOON](https://github.com/illionillion/RAY-BOON) | 技育CAMPハッカソン<br/>例文自動生成英単語アプリ | TypeScript・React Native・ChatGPT・ES Lint・GitHub Actions |
 | [NFC読み書きWebアプリ](https://github.com/illionillion/react-read-nfc-app) | 個人開発<br/>NFCに読み書きができるWebアプリ（テキスト・URL・JSON読み書き可能） | TypeScript・React・WebNFC・ES Lint・GitHub Actions |
-| [自販機サーチャー](https://github.com/illionillion/reco-c-team-project) | R社インターンハッカソン<br/>現在地から欲しい飲み物を売っている自販機を探すことのできるWebアプリ | TypeScript・React・Next.js・MySQL・Docker |
-| [MaaS](https://github.com/SEKI-YUTA/GEEKCAMP_HACKATHON_20230929) | 技育キャラバン大阪<br/>個人経営飲食店向けのモバイルメニュー表SaaS | TypeScript・React・Go・Docker・GitHub Actions |
-|[ラグナロクアップルズ](https://github.com/illionillion/RagnarokApples)|大阪芸大の学生と共同開発したノベルゲーム|Node.js・Electron|
 |[顔マスキングアプリ](https://github.com/illionillion/face-stamp-app-prototype)|顔写真の顔をAIで自動マスキングするアプリ|React・TypeScript・Yamada UI|
 |[あしあと](https://github.com/illionillion/ashiato)|関西ビギナーズハッカソン<br/>旅のしおりを作成するアプリ|PHP・Docker|
-|[READMe.pet](https://github.com/impostor-syndromes/README.pet)|READMEで飼うペットにコントリビューション数で餌をあげれるツール|Go・Docker・Google Cloud|
 
 # My Qiita
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/dimyasvariant/posts.svg)](http://qiita.com/dimyasvariant)
