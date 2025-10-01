@@ -16,6 +16,8 @@
   <img alt="github contribution grid snake animation" src="./img/snake.svg">
 </picture>
 
+<img src="./metrics.plugin.calendar.full.svg"/>
+
 <!-- ![My Pet](https://readme.pet/api?username=illionillion) -->
 
 <!-- # 制作物
