@@ -18,6 +18,8 @@
 
 <img src="./metrics.plugin.calendar.full.svg"/>
 
+<img src="./github-metrics.svg"/>
+
 <!-- ![My Pet](https://readme.pet/api?username=illionillion) -->
 
 <!-- # 制作物
