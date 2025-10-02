@@ -21,19 +21,19 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 97.8kb of code in 166 edited files across 230 commits over last 14 days</small>
+                <small>estimation from 99.7kb of code in 168 edited files across 236 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="357.8612337798889" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="357.8612337798889" y="0" width="90.18369391769029" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="448.0449276975792" y="0" width="4.796823394069841" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="452.8417510916491" y="0" width="4.586286661471283" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="457.42803775312035" y="0" width="1.9346618671218812" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="459.3626996202422" y="0" width="0.33003055380314444" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.6927301740454" y="0" width="0.30726982595465174" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="349.8930843472582" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="349.8930843472582" y="0" width="99.87010473863718" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="449.76318908589536" y="0" width="4.484168259113229" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="454.2473573450086" y="0" width="4.17817662852858" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="458.42553397353714" y="0" width="0.9513557969086378" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="459.3768897704458" y="0" width="0.32268208316199415" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.6995718536078" y="0" width="0.30042814639220145" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -50,15 +50,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#ff3e00" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Svelte
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Makefile
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#ff3e00" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Svelte
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -444,6 +444,7 @@
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="49" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </g>
                             <g transform="translate(0, 144)">
