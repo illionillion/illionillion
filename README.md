@@ -1,4 +1,15 @@
 # Hello MyPage !!
+
+個人開発で、東京周辺の connpass イベントを探しやすくする [tokyo-event-calendar](https://github.com/illionillion/tokyo-event-calendar) などを公開しています。
+
+## GitHub Sponsors
+
+気に入ってもらえたら、[GitHub Sponsors](https://github.com/sponsors/illionillion) で応援してもらえると嬉しいです。
+
+[![Sponsor illionillion](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?logo=githubsponsors&logoColor=white&style=for-the-badge)](https://github.com/sponsors/illionillion)
+
+---
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=illionillion&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=illionillion&layout=donut&langs_count=8&theme=react&hide=html,tex)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=illionillion&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) -->
